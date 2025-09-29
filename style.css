@@ -1,0 +1,17 @@
+@import url("./components/navbar.css");
+@import url("./components/footer.css");
+@import url("./components/hero.css");
+@import url("./components/skills.css");
+@import url("./components/gallery.css");
+
+:root {
+  --background: #dddddd;
+  --our-blue: #87ceeb;
+  --our-orange: #e9c46a;
+  --our-main-font-size: 40px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
